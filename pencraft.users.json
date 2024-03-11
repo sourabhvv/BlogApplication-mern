@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "65ed9d10445339affad0d014"
+  },
+  "username": "sourabh",
+  "password": "$2b$10$J4gVFaQLjhMTDhTO10sBa.LEIUUC36CvlSyg9oTSHKRFT418i6NBC",
+  "email": "sourabhv945@gmail.com",
+  "createdAt": {
+    "$date": "2024-03-10T11:44:16.642Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-10T11:44:16.642Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ee24b3865a5fe0cf92bd49"
+  },
+  "username": "David Johnson",
+  "password": "$2b$10$P/NejWuBjBQPdLrsO.YH9.8Rg2ePpHhC18ZRMLDghFuzJSjEywinC",
+  "email": "DavidJohnson@gmail.com",
+  "createdAt": {
+    "$date": "2024-03-10T21:22:59.565Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-10T21:22:59.565Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ee2692865a5fe0cf92bd77"
+  },
+  "username": "Emily Brown",
+  "password": "$2b$10$QlzkZoR/wUuCD/7YKCWjOuPetowlZGkqtM16MzLmxP25U.C4sasty",
+  "email": "EmilyBrown@gmail.com",
+  "createdAt": {
+    "$date": "2024-03-10T21:30:58.620Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-10T21:30:58.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ee274f865a5fe0cf92bd97"
+  },
+  "username": "Michael Clark",
+  "password": "$2b$10$ETQFFExgJ1m2dI3WyiGlW.tI4tyDxBpD6j/7BB2qhTU5EIfy9Xll2",
+  "email": "MichaelClark@gmail.com",
+  "createdAt": {
+    "$date": "2024-03-10T21:34:07.488Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-10T21:34:07.488Z"
+  },
+  "__v": 0
+}]
